@@ -1,3 +1,9 @@
+We are making wook coins!
+
+---
+
+(Original readme below)
+
 Bitcoin Core integration/staging tree
 =====================================
 
